@@ -4,6 +4,7 @@
         "plugin:import/errors",
         "plugin:react/recommended",
         "plugin:jsx-ally/recommended",
+        "plugin:react-hooks/recommended",
         "prettier"
     ],
     "rules": {
@@ -13,7 +14,8 @@
     "plugins": [
         "react",
         "import",
-        "jsx-ally"
+        "jsx-ally",
+        "react-hooks"
     ],
     "parserOptions": {
         "ecmaVersion": 2022,
